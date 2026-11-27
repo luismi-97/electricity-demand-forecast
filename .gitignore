@@ -11,7 +11,7 @@ data/processed/*
 !data/processed/.gitkeep
 *.duckdb
 *.duckdb.wal
-models/
+/models/
 .DS_Store
 .vscode/
 .env
